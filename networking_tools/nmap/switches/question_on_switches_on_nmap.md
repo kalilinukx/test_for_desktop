@@ -28,7 +28,7 @@ What switch would you use to save the nmap results in a "normal" format?
 A very useful output format: how would you save results in a "grepable" format?
 
 -oG
-Sometimes the we're getting just aren't enough. If we don't care about how loud we are, we can enable "aggressive" mode. This is a shorthand switch that activates service detection, operating system detection, a traceroute and common script scanning.
+Sometimes the we're getting just aren't enough. If we don't care about how loud we are, we can enable "aggressive" mode. This is a shorthand switch that activates service detection, operating system detection, a traceroute and common script     scanning.
 
 How would you activate this setting?
 
