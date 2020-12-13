@@ -94,9 +94,9 @@ Note: It is possible to give someone no perms to a file, You can just put 0 as t
 
 What permissions mean the user can read the file, the group can read and write to the file, and no one else can read, write or execute the file?
 
-Answer format: ***
+Answer format: 460
 What permissions mean the user can read, write, and execute the file, the group can read, write, and execute the file, and everyone else can read, write, and execute the file.
 
 
 
-Answer format: ***
+Answer format: 777
