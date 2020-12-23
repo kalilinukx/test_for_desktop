@@ -8,4 +8,4 @@ print(madlib)
 print("Hello world")
 # adj = input("Adjective : ")
 # madlib = f"Computer programming is {adj}!"
-print(madlib)
+# print(madlib)
