@@ -26,8 +26,8 @@ while True:
             started = False
 
     elif command in ["exit", "quit"]:
-        print(" all process has now ended:"
-              "thanku for chossing us:")
+        print(" all process has now ended: "
+              "thanku for chossing us: ")
         break
     else:
         print("i don't understand that")

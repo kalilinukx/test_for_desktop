@@ -1,4 +1,5 @@
 num=371
+num = int(input("Enter a number : "))
 sum=0
 # z = input("Enter the size of the digit : ")
 temp=num
