@@ -8,6 +8,7 @@ class Person:
         
     def talk(self):
         print(f'i am {self.name}')
+        
 
     def say_hi(self):
         print("i am mise")
